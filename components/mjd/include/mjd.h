@@ -23,7 +23,7 @@
 #include "sdkconfig.h"
 
 #include "esp_event_loop.h"
-#include "esp_clk.h"
+#include "esp32/clk.h"
 #include "esp_log.h"
 #include "esp_sleep.h"
 #include "esp_spi_flash.h"
